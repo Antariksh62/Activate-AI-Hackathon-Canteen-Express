@@ -1,5 +1,6 @@
 # CanteenExpress 🍛🎙️
 
+This is a MVP
 A real-time, voice-first ordering system built to help teachers skip the queue at the PICT canteen. Instead of fumbling with menus, just speak your order and let the AI handle the rest.
 
 ## How it works

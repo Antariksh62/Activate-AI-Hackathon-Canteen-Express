@@ -20,6 +20,3 @@ A real-time, voice-first ordering system built to help teachers skip the queue a
 - **Auth:** Authentication specifically for PICT faculty.
 - **Payments:** Monthly "tab" system or UPI integration.
 - **Confirmation:** Text-to-Speech loop to read back orders before they are finalized.
-
----
-*Built for the Activate AI Fellowship.*

@@ -4,16 +4,10 @@ This is a MVP.
 A real-time, voice-first ordering system built to help teachers skip the queue at the PICT canteen. Instead of fumbling with menus, just speak your order and let the AI handle the rest.
 
 <h3>
-  Watch demonstration on
-  <a href="https://www.youtube.com/watch?v=GMiU69LaVY8"
-     target="_blank"
-     style="display:inline-flex; align-items:center; vertical-align:middle; text-decoration:none; border:none;">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000"
-         height="24"
-         alt="YouTube"
-         style="display:block;">
+  Watch demonstration:
+  <a href="https://www.youtube.com/watch?v=GMiU69LaVY8" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube&logoColor=white" alt="YouTube Video">
   </a>
-  : <a href="https://www.youtube.com/watch?v=GMiU69LaVY8" target="_blank">Video Link</a>
 </h3>
 
 ## How it works

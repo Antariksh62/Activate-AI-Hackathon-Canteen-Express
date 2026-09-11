@@ -3,6 +3,19 @@
 This is a MVP.
 A real-time, voice-first ordering system built to help teachers skip the queue at the PICT canteen. Instead of fumbling with menus, just speak your order and let the AI handle the rest.
 
+<h3>
+  Watch demonstration on
+  <a href="https://www.youtube.com/watch?v=GMiU69LaVY8"
+     target="_blank"
+     style="display:inline-flex; align-items:center; vertical-align:middle; text-decoration:none; border:none;">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000"
+         height="24"
+         alt="YouTube"
+         style="display:block;">
+  </a>
+  : <a href="https://www.youtube.com/watch?v=GMiU69LaVY8" target="_blank">Video Link</a>
+</h3>
+
 ## How it works
 1. **Voice Input:** Teachers record their order naturally (e.g., "Give me two chais and one poha... wait, make it three chais").
 2. **AI Processing:** - **Whisper-large-v3 (via Groq):** Transcribes audio with near-zero latency.
